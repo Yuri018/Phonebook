@@ -1,29 +1,22 @@
 package com.phonebook.tests;
 
-import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class HomePageTests extends TestBase{
+public class HomePageTests extends TestBase {
 
     @BeforeMethod
-    public void ensurePrecondition(){
-        if (!isHomeComponentPresent()){
-            click(By.cssSelector("[href='/home']"));
+    public void ensurePrecondition() {
+        if (!app.getHomePage().isHomeComponentPresent()) {
+            app.getHomePage().clickOnHomeLink();
         }
     }
 
     @Test
-    public void isHomeComponentPresentTest(){
+    public void isHomeComponentPresentTest() {
 //        System.out.println("Home Component is " + isHomeComponentPresent());
 
-        Assert.assertTrue(isHomeComponentPresent());
+        Assert.assertTrue(app.getHomePage().isHomeComponentPresent());
     }
-
-    public boolean isHomeComponentPresent(){
-        return isElementPresent(By.cssSelector("div:nth-child(2)>div>div>h1"));
-    }
-
-
 }
