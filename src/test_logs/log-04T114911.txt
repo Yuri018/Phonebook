@@ -1,0 +1,16 @@
+11:49:20.493 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testisHomeComponentPresentTest with data: []
+11:49:20.603 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedisHomeComponentPresentTest
+11:49:20.603 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:49:20.604 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:49:20.615 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTest with data: []
+11:49:22.871 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedloginPositiveTest
+11:49:22.873 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:49:22.874 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:49:22.882 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTests with data: []
+11:49:38.280 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedaddContactPositiveTests
+11:49:38.281 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:49:38.282 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:49:38.289 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testremoveContactTest with data: []
+11:50:07.424 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedremoveContactTest
+11:50:07.424 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:50:07.425 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________

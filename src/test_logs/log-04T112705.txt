@@ -1,0 +1,12 @@
+11:27:16.749 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginNegativeTestWithOutEmail with data: []
+11:27:19.545 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedloginNegativeTestWithOutEmail
+11:27:19.553 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:27:19.588 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:27:19.691 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTest with data: []
+11:27:21.415 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedloginPositiveTest
+11:27:21.422 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:27:21.423 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:27:21.437 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testcreateExistedAccountNegativeTest with data: []
+11:27:35.179 [Test worker] INFO  com.phonebook.tests.TestBase -- PassedcreateExistedAccountNegativeTest
+11:27:35.186 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+11:27:35.187 [Test worker] INFO  com.phonebook.tests.TestBase -- _____________________________________________

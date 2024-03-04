@@ -1,0 +1,15 @@
+11:10:54.098 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\QA\Phonebook\src\test\resources\testng.xml
+
+11:11:04.223 [main] INFO  com.phonebook.tests.TestBase -- Start testloginNegativeTestWithOutEmail with data: []
+11:11:07.017 [main] INFO  com.phonebook.tests.TestBase -- PassedloginNegativeTestWithOutEmail
+11:11:07.025 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:11:07.025 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:11:07.088 [main] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTest with data: []
+11:11:08.796 [main] INFO  com.phonebook.tests.TestBase -- PassedloginPositiveTest
+11:11:08.798 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:11:08.800 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+11:11:08.815 [main] INFO  com.phonebook.tests.TestBase -- Start testcreateExistedAccountNegativeTest with data: []
+11:11:21.947 [main] INFO  com.phonebook.tests.TestBase -- PassedcreateExistedAccountNegativeTest
+11:11:21.949 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:11:21.956 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
