@@ -1,0 +1,7 @@
+11:45:44.834 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+11:45:52.812 [main] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTest
+11:45:55.024 [main] INFO  com.phonebook.tests.TestBase -- PassedloginPositiveTest
+11:45:55.025 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:45:55.026 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________

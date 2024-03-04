@@ -1,0 +1,7 @@
+11:42:54.636 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+11:43:02.449 [main] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTest
+11:43:13.905 [main] ERROR com.phonebook.tests.TestBase -- FailedloginPositiveTestScreenshot -> C:\QA\Phonebook\screenshots\screen 1709289793822.png
+11:43:13.912 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+11:43:13.926 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________

@@ -1,0 +1,5 @@
+11:15:46.140 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+11:15:57.380 [main] INFO  com.phonebook.tests.TestBase -- Start test
+11:16:00.196 [main] INFO  com.phonebook.tests.TestBase -- Stop test

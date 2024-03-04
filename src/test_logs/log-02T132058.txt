@@ -1,0 +1,19 @@
+13:21:01.527 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+13:21:09.240 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTestFromDataProviderWithFile
+13:21:15.302 [main] INFO  com.phonebook.tests.TestBase -- PassedaddContactPositiveTestFromDataProviderWithFile
+13:21:15.303 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+13:21:15.304 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+13:21:15.309 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTestFromDataProviderWithFile
+13:21:33.978 [main] INFO  com.phonebook.tests.TestBase -- PassedaddContactPositiveTestFromDataProviderWithFile
+13:21:33.978 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+13:21:33.979 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+13:21:33.988 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTestFromDataProviderWithFile
+13:21:49.603 [main] INFO  com.phonebook.tests.TestBase -- PassedaddContactPositiveTestFromDataProviderWithFile
+13:21:49.604 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+13:21:49.604 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
+13:21:49.607 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTestFromDataProviderWithFile
+13:22:04.776 [main] INFO  com.phonebook.tests.TestBase -- PassedaddContactPositiveTestFromDataProviderWithFile
+13:22:04.776 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+13:22:04.777 [main] INFO  com.phonebook.tests.TestBase -- _____________________________________________
